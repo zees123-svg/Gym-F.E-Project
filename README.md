@@ -23,3 +23,11 @@ This project is designed with a clean UI, smooth animations, and a mobile-friend
 | HTML5     | Font Awesome      |
 | CSS3      | Google Fonts      |
 | JavaScript | VS Code Editor   |
+
+## 👨‍💻 Author
+
+Zeeshan Ramzan 
+
+📧 [versatilezeeshan1708@gmail.com] 
+🔗 GitHub [https://github.com/zees123-svg]
+🔗 LinkedIn [https://www.linkedin.com/in/zeeshan-ramzan-719845341/]
