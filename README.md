@@ -1,4 +1,4 @@
-# 🌐 Gym Website
+## 📜 Gym Website
 
 A fully responsive **Gym Website** built using **HTML, CSS, and JavaScript** to showcase my skills, projects, and achievements in web development.  
 This project is designed with a clean UI, smooth animations, and a mobile-friendly layout.
@@ -18,11 +18,11 @@ This project is designed with a clean UI, smooth animations, and a mobile-friend
 
 ## 🛠️ Technologies Used
 
-| Frontend | Tools & Libraries |
-|-----------|-------------------|
-| HTML5     | Font Awesome      |
-| CSS3      | Google Fonts      |
-| JavaScript | VS Code Editor   |
+| Frontend   | Tools & Libraries |
+|------------|-------------------|
+| HTML5      | Font Awesome      |
+| CSS3       | Google Fonts      |
+| JavaScript | VS Code Editor    |
 
 ## 👨‍💻 Author
 
@@ -31,3 +31,7 @@ Zeeshan Ramzan
 📧 [versatilezeeshan1708@gmail.com] 
 🔗 GitHub [https://github.com/zees123-svg]
 🔗 LinkedIn [https://www.linkedin.com/in/zeeshan-ramzan-719845341/]
+
+## 🌐 Live Demo
+
+https://gym-website-virid-alpha.vercel.app/
